@@ -2,4 +2,4 @@ XML format and XSL converters to generate HTML, PDF, and RTF resumes (that last 
 
 For a while, I maintained my resume in XML and ran it through XSL/FOP/JFOR to create various presentations (and contributed a kludge for proportional columns in [JFOR](https://xmlgraphics.apache.org/fop/dev/rtflib.html)).
 
-The stylesheets are MIT license, but of course not my resume itself (it's really old, anyway).
+Now I'm using a semi-standard [JSON](https://github.com/technicat/resume) format that has better-looking themes, but one thing that I liked about this one is the grouping by industry.
